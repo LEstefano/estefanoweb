@@ -1,8 +1,0 @@
-Esto es una prueba, 
-archivo txt. 
-
-
-Modificado en branch1. 
-
-Kind regards, 
-Estéfano
